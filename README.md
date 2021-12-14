@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakobfrederikson, a software engineering student from New Zealand.
-- 👀 I’m interested in C++, game programming and software in general.
+- 👀 I’m interested in Cyber Security, Python, C++, game programming and software in general.
 - 🌱 I’m currently learning the QT Framework for C++ and C# in Unity.
 
 <!---
