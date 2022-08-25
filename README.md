@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jakobfrederikson, a software engineering student from New Zealand.
-- 🌱 I’m currently focusing on: creating an online learning environment called Cloudroom for a school project.
+- 💫 Favourite project: Cloudroom
+- 🌱 I’m currently focusing on: growing as a programmer through [Exercism](https://exercism.org/)! This is my favourite way to keep my brain ticking so I don't forget how to program 😄
 
 <!---
 jakobfrederikson/jakobfrederikson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
