@@ -3,6 +3,8 @@
 - 🌳 I'm currently learning: TypeScript and React
 - 🌱 My current project: A frontend blog web app using Next.js and TypeScript
 
+[Take a look at my blog.](https://jakobdev-blog.vercel.app/)
+
 <!---
 jakobfrederikson/jakobfrederikson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
