@@ -3,8 +3,6 @@
 - 🌳 I'm currently learning: Tax.
 - 🌱 My current project: Wardrobe app in Blazor.
 
-[Take a look at my blog.](https://jakobdev-blog.vercel.app/)
-
 <!---
 jakobfrederikson/jakobfrederikson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
