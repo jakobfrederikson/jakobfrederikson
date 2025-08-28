@@ -1,4 +1,4 @@
-- Currently working in IT and making Godot games.
+- Currently working in IT, making Godot games, and completing CS50.
 
 <!---
 jakobfrederikson/jakobfrederikson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
