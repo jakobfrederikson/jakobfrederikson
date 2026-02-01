@@ -1,5 +1,5 @@
-- Currently working as L1 Service Desk.
-- Enjoy making games in Godot, or web apps with C# and Python (Django).
+- L1 Service Desk.
+- I enjoy programming.
 
 <!---
 jakobfrederikson/jakobfrederikson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
